@@ -12,9 +12,7 @@ class Shoe
     @brand
   end
 
-  def color
-    @color
-  end
+
 
 
 end
