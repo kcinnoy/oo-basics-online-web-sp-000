@@ -12,7 +12,9 @@ class Shoe
     @brand
   end
 
-
+def cobble
+  @condition = "new"
+end
 
 
 end
